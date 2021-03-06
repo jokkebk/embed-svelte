@@ -1,0 +1,30 @@
+{
+  "name": "embed-svelte",
+  "version": "1.0.0",
+  "description": "Embed svelte component from script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokkebk/embed-svelte.git"
+  },
+  "keywords": [
+    "svelte",
+    "embed",
+    "rollup",
+    "script"
+  ],
+  "author": "Joonas Pihlajamaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokkebk/embed-svelte/issues"
+  },
+  "homepage": "https://github.com/jokkebk/embed-svelte#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^11.2.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.35.0"
+  }
+}
