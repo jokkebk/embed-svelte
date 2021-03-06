@@ -5,4 +5,6 @@ This repository contains sample code to create a simple
 that will render the `Embed.svelte` component just before
 that script.
 
-See my [Code and Life blog post](https://codeandlife.com) for details.
+See my [Code and Life blog
+post](https://codeandlife.com/2021/03/06/easy-to-embed-svelte-components/) for
+details.
